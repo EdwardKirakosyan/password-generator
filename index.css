@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+}
+
+hr {
+  height: 3px;
+  background-color: #263548;
+  border: none;
+  margin: 30px 300px;
+  text-align: center;
+}
+
+div {
+  background-color: #1e2a38;
+  padding: 100px;
+  margin: 0;
+}
+
+#head-one {
+  color: white;
+  margin-bottom: 0;
+}
+
+#head-two {
+  color: #0fb982;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: white;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+button {
+  background-color: #0fb982;
+  border-radius: 8%;
+  padding: 20px 30px;
+  color: white;
+  font-weight: bold;
+}
+
+input {
+  background-color: #273649;
+  border: none;
+  margin: 15px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
